@@ -1,0 +1,59 @@
+              * POR FAVOR LEIA ATENTAMENTE ESTE DOCUMENTO *
+
+1.    TERMO DE UTILIZAÇÃO:
+- 1.1 A Licença do {software} é de uso não-exclusivo e intransferível. Assinatura da licença é válida por tempo indeterminado, EXCETO nos casos de formatação, atualização ou troca de máquina, será necessário revalidar a licença.
+A licença refere-se a 1 (um) aplicativo por cada máquina. Em razão de existir um tempo para o usuário testar o aplicativo, em que o mesmo fica ciente das suas funcionalidades, não haverá, qualquer que seja o motivo, devolução ou reembolso do valor da licença.
+- 1.2 O uso do software para atacar infra-estruturas sem consentimento mútuo prévio pode ser considerado uma atividade ilegal e é altamente desencorajado por seus autores / desenvolvedores. É de responsabilidade do usuário final obedecer a todas as leis locais, estaduais e federais aplicáveis. Os autores não assumem nenhuma responsabilidade e não são responsáveis ​​por qualquer uso indevido ou dano causado por este programa. 
+
+2.    DIREITOS DO AUTOR (Copyright):
+- O software especificado neste Termo de Responsabilidade é e continuará a ser propriedade do Autor. O mesmo software está sujeito aos direitos de Autor e como tal está protegido em todas as extensões permitidas por lei.
+
+3.    TRANSFERÊNCIA DA LICENÇA:
+- Esta licença é exclusiva da empresa ou utilizador que a comprou, não sendo permitido vender, revender, representar, emprestar, trocar, doar, leiloar, consignar ou transferir de qualquer maneira qualquer cópia deste software.
+Qualquer transferência que viole este Termo de Responsabilidade cancelará automaticamente a licença.
+
+4.    INSTALAÇÃO DE MÚLTIPLAS LICENÇAS:
+- Cada cópia do software deve ser instalada em apenas um computador. Quando se compra uma licença múltipla, apenas o número de usuários-desenvolvedores permitidos é definido pelo tipo de licenciamento.  
+
+5.    RESPONSABILIDADES:
+- Em nenhuma hipótese o Autor será responsável, por danos causados ou por perda de lucros, incluindo, sem qualquer limitação, danos especiais causados por parada do trabalho, perda de dados causados pela utilização e uso inadequado deste software, ainda que o Autor tenha sido avisado acerca desta possibilidade ou de tais danos ou perdas.
+Ao aceitar este Termo de Responsabilidade, o cliente aceita que a responsabilidade do Autor pelos danos causados pela utilização ou pelo uso inadequado deste software.
+
+6.    DO SOFTWARE:
+- Desde a instalação o usuário, ou cliente fica ciente, da forma do software 'ASSIM COMO ESTÁ', termo usado e válido em licenças de software, não podendo reclamar, posteriormente de falta de funções ou módulos, sendo que qualquer pedido de alteração, deverá ser encaminhado ao autor, que fará análises, sem entretanto garantir a alteração.
+
+8.    DO SUPORTE:
+- O licenciamento do software não inclui direito a suporte técnico do seu uso. Este poderá ser contratado em separado, e será fornecido nas condições e pelo período contratado.
+
+9.    RESTRIÇÕES DE UTILIZAÇÃO.
+- O software não pode ser usado em qualquer situação que viole os direitos de autor. Isto inclui fazer cópias (exceto de backup), reprodução, modificação, engenharia reversa, técnicas de desmontagem fazendo produtos derivados do software ou qualquer outro método de descodificação.
+Todos os direitos não expressamente garantidos são reservados ao Autor. Todas as cópias do software permitidas neste Licenciamento devem conter todos os direitos do Autor e uma cópia original do mesmo.
+
+10.   DO OBJETO:
+- 10.1 O presente instrumento tem como objeto o direito de uso por prazo determinado no ato do licenciamento do SOFTWARE, que abrange o programa de computador e pode incluir quaisquer materiais impressos, e qualquer documentação “online” ou eletrônica. Ao utilizar o SOFTWARE, mesmo que parcial ou a título de teste, o licenciado estará vinculado aos termos deste EULA, concordando com os mesmos. Em caso de discordância dos termos aqui apresentados, a utilização do SOFTWARE deve ser imediatamente interrompida.
+
+- 10.2 Sujeito aos termos e condições do presente instrumento, este EULA concede ao LICENCIADO uma licença revogável, não exclusiva e intransferível para usar o SOFTWARE. O LICENCIADO não poderá utilizar e nem permitir o uso do SOFTWARE para outra finalidade que não seja o uso interno. Esta licença não implica na capacidade de acessar outros softwares além daqueles originalmente localizados no SOFTWARE. Em nenhuma hipótese o LICENCIADO terá acesso ao código fonte do SOFTWARE ora licenciado, por este se tratar de propriedade intelectual da LICENCIANTE.
+
+- 10.3 A licença atribuída a este EULA restringe-se na utilização do SOFTWARE, para benefício próprio, e utilização dos recursos conforme plano adquirido, o LICENCIADO não adquire, pelo presente instrumento, nenhum direito de propriedade intelectual ou outros direitos exclusivos, incluindo patentes, desenhos, marcas, direitos autorais ou direitos sobre informações confidenciais ou segredos de negócio, sobre ou relacionados ao SOFTWARE ou nenhuma parte dele. O LICENCIADO também não adquire nenhum direito sobre ou relacionado ao SOFTWARE ou qualquer componente dele, além dos direitos expressamente licenciados ao mesmo sob o presente EULA ou em qualquer outro contrato mutuamente acordado por escrito que o LICENCIADO possa ter celebrado com a LICENCIANTE. Quaisquer direitos não expressamente concedidos sob o presente instrumento são reservados.
+
+11.   DISPOSIÇÕES LEGAIS:
+- 11.1 A LICENCIANTE, na execução do presente Contrato, sem prejuízo de suas responsabilidades contratuais e legais poderá utilizar, se necessário, o apoio técnico especializado de terceiros, pessoas físicas ou jurídicas independentemente de prévia notificação à CONTRATANTE, desde que não haja custos posteriores à CONTRATANTE.
+
+- 11.2 O LICENCIADO não poderá prestar serviços a terceiros utilizando o SOFTWARE da LICENCIANTE sem autorização prévia e expressa da mesma;
+
+- 11.3 Caso o LICENCIADO venha a desenvolver um novo módulo ou produto que caracterize cópia, de todo ou em parte, quer seja do dicionário de dados, quer seja do programa, será considerado como parte do software fornecido pela LICENCIANTE, ficando, portanto, sua propriedade incorporada pela LICENCIANTE e seu uso condicionado a estas cláusulas contratuais;
+
+- 11.4 Este EULA obriga as partes e seus sucessores e somente o LICENCIADO possui licença não exclusiva para a utilização do SOFTWARE, sendo-lhe, entretanto, vedado transferir os direitos e obrigações impostos por este instrumento. Tal limitação, no entanto, não atinge a LICENCIANTE, que poderá, a qualquer tempo, ceder, no todo ou em parte, os direitos e obrigações inerentes ao presente EULA;
+
+- 11.5 Não constituem causa de rescisão contratual, o não cumprimento das obrigações aqui assumidas em decorrência de fatos que independam da vontade das partes, tais como os que configuram o caso fortuito e a força maior previstos no artigo 393 do Código Civil Brasileiro;
+
+- 11.6 Se qualquer disposição deste EULA for considerada nula, anulável, inválida ou inoperante, nenhuma outra disposição deste EULA será afetada como consequência disso e, portanto, as disposições restantes deste EULA permanecerão em pleno vigor e efeito como se tal disposição nula, anulável, inválida ou inoperante não estivesse contida neste EULA;
+
+- 11.7 O LICENCIADO concorda que a LICENCIANTE possa divulgar o fechamento contrato para fins comerciais, fazendo menção ao nome e à marca do LICENCIADO em campanhas comerciais, podendo, inclusive, divulgar mensagens enviadas de forma escrita ou oral, por telefone, para uso em sites, jornais, revistas e outras campanhas, enquanto vigorar o presente EULA. O LICENCIADO aceita, ainda, receber notificações via correio eletrônico sobre treinamentos, parcerias e campanhas relacionadas ao SOFTWARE;
+
+- 11.8 Neste ato, o LICENCIANTE expressamente autoriza a LICENCIADA a colher e utilizar seus dados técnicos e operacionais presentes no SOFTWARE, para fins de estudos e melhorias no SOFTWARE.
+
+
+
+Todos os direitos reservados.
+Jean Carlos ©

@@ -1,0 +1,7 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+$
+$      Copie a pasta para a área de trabalho
+$                 e execute o arquivo.
+$              O programa fará o resto.
+$
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
